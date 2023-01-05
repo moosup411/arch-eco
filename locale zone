@@ -1,0 +1,1 @@
+shell> /usr/bin/mariadb-install-db --defaults-file=~/.my.cnf
